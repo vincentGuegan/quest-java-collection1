@@ -20,8 +20,6 @@ Pour démarrer, [fais un _Fork_ du dépôt suivant](https://github.com/WildCodeS
 
 ```
 
-// name: Black Widow, age: 34
-
 // name: Captain America, age: 100
 
 // name: Vision, age: 3
