@@ -3,15 +3,6 @@
   
 
 Thanos décide de programmer son gant de l'infini afin de créer une liste de `Hero`, dans le but final d'en supprimer la moitié.
-
-  
-
-Pour démarrer, [fais un _Fork_ du dépôt suivant](https://github.com/WildCodeSchool/quest-java-collection1) puis clone-le en local.
-
-  
-
-> Pense bien à faire un _Fork_, sinon tu ne pourras rien pousser !
-
   
 
 1. Initialise une `ArrayList` de `Hero` nommée `heroes`
